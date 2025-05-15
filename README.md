@@ -168,4 +168,3 @@ bot.on('text', async (ctx) => {
 
 bot.launch();
 ```
->>>>>>> 9ff400e03943d8077bfc9b4cc12d7c7f7b559823
