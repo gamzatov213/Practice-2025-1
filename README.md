@@ -26,7 +26,6 @@
 - Изучить основы клиент-серверного взаимодействия и работы с событиями.
 
 **Используемые источники:**
-- [Документация Telegraf.js](https://telegraf.js.org/)
 - [OpenAI API](https://platform.openai.com/docs/api-reference/chat/create)
 
 ---
