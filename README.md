@@ -91,8 +91,8 @@ site/
 Склонируйте репозиторий и перейдите в папку проекта:
 
 ```bash
-git clone https://github.com/ART1KZ/PsychologistAITelegramBot.git
-cd PsychologistAITelegramBot
+git clone [https://github.com/gamzatov213/Practice-2025-1]
+cd src
 ```
 
 ### 2. Установка зависимостей
@@ -123,7 +123,7 @@ OPENAI_API_KEY=ваш_ключ_openai
 Для запуска бота используйте команду:
 
 ```bash
-node src/bot.js
+npm run start
 ```
 
 ### 6. Использование
